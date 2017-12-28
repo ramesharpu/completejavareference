@@ -7,7 +7,7 @@ package operators;
  * @author Ramesh
  *
  */
-public class Operators {
+public class BasicOperators {
 
 	/**
 	 * @param args
